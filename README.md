@@ -2,7 +2,7 @@
 
 ---
 
-Ejercicio de Interfaces con JAVA
+## Ejercicio de Interfaces con JAVA
 
 ---
 
@@ -18,4 +18,9 @@ Tenemos figuras geometricas:
 `Romboide`
 `Trapecio`
 
+---
+
+Tomando como base las formulas de la imagen siguiente: 
+
+![FigurasGeometricas](https://raw.githubusercontent.com/Eduardo-Mtz-Jrz/Interfaces/refs/heads/main/FigurasGeometricas.webp)
 
